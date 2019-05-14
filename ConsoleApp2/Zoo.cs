@@ -93,7 +93,7 @@ namespace ConsoleApp2
         #region Money
 
         #region Property
-        private static ulong money = 5000000;
+        private static ulong money = 5;
         public static ulong Money
         {
             get
